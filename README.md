@@ -15,7 +15,7 @@
 - Работа с хеш-таблицами
 ## Установка
 Установить проект можно с помощью команды
-'gitclone https://github.com/MaksimTsarev/Predprof/'
+'git clone https://github.com/MaksimTsarev/Predprof/'
 
 ## Как пользоваться
 Чтобы запустить файлы python, воспользуйтесь командой
